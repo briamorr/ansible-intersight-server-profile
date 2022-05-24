@@ -1,6 +1,5 @@
 [Intersight_Servers]
-SJC07-R14-FI-1-1-7
-SJC07-R14-FI-1-1-8
+C220-FCH1902V2ZS
 
 # Examples can use Intersight or Intersight_Servers host group
 [Intersight:children]
